@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="464b7fc6-fb39-46da-b98b-a1d81a4ce5d2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Week 4/Building_your_Deep_Neural_Network_Step_by_Step.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 4/Building_your_Deep_Neural_Network_Step_by_Step.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4/Deep Neural Network.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4/dnn_app_utils_v3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/NeuralNetworksandDeepLearning$Building_your_Deep_Neural_Network_Step_by_Step.coverage" NAME="Building_your_Deep_Neural_Network_Step_by_Step Coverage Results" MODIFIED="1590235418231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
+    <SUITE FILE_PATH="coverage/NeuralNetworksandDeepLearning$Building_your_Deep_Neural_Network_Step_by_Step.coverage" NAME="Deep Neural Network Coverage Results" MODIFIED="1590238290158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
     <SUITE FILE_PATH="coverage/NeuralNetworksandDeepLearning$TaskOne.coverage" NAME="Planar_data_classification_with_onehidden_layer Coverage Results" MODIFIED="1589981907339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
   </component>
   <component name="FileEditorManager">
@@ -53,11 +55,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Building_your_Deep_Neural_Network_Step_by_Step.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Building_your_Deep_Neural_Network_Step_by_Step.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week 4/Building_your_Deep_Neural_Network_Step_by_Step.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
-              <caret line="171" lean-forward="true" selection-start-line="171" selection-end-line="171" />
+            <state relative-caret-position="215">
+              <caret line="173" lean-forward="true" selection-start-line="173" selection-end-line="173" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Deep Neural Network.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week 4/Deep Neural Network.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="104" column="14" lean-forward="true" selection-start-line="104" selection-start-column="14" selection-end-line="104" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dnn_app_utils_v3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 4/dnn_app_utils_v3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="426" column="53" lean-forward="true" selection-start-line="426" selection-start-column="53" selection-end-line="426" selection-end-column="53" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -129,6 +155,8 @@
         <option value="$PROJECT_DIR$/Week 4/testCases_v4a.py" />
         <option value="$PROJECT_DIR$/Week 4/dnn_utils_v2.py" />
         <option value="$PROJECT_DIR$/Week 4/Building_your_Deep_Neural_Network_Step_by_Step.py" />
+        <option value="$PROJECT_DIR$/Week 4/dnn_app_utils_v3.py" />
+        <option value="$PROJECT_DIR$/Week 4/Deep Neural Network.py" />
       </list>
     </option>
   </component>
@@ -189,7 +217,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Building_your_Deep_Neural_Network_Step_by_Step" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Deep Neural Network" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NeuralNetworksandDeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,7 +230,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 4/Building_your_Deep_Neural_Network_Step_by_Step.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 4/Deep Neural Network.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,7 +238,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Building_your_Deep_Neural_Network_Step_by_Step" />
+        <item itemvalue="Python.Deep Neural Network" />
       </list>
     </recent_temporary>
   </component>
@@ -238,14 +266,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32972136" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.10665658" side_tool="true" visible="true" weight="0.32972136" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49924356" weight="0.32972136" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.89334345" visible="true" weight="0.32972136" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.89334345" weight="0.32972136" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1762481" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -401,10 +428,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 4/Building_your_Deep_Neural_Network_Step_by_Step.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="171" lean-forward="true" selection-start-line="171" selection-end-line="171" />
+        <state relative-caret-position="215">
+          <caret line="173" lean-forward="true" selection-start-line="173" selection-end-line="173" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/dnn_app_utils_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="426" column="53" lean-forward="true" selection-start-line="426" selection-start-column="53" selection-end-line="426" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Deep Neural Network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="104" column="14" lean-forward="true" selection-start-line="104" selection-start-column="14" selection-end-line="104" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
